@@ -1,6 +1,6 @@
 ### Hi, I'm Denys 👋
 
-Software engineer, shipping production web apps since 2016.
+Senior full-stack engineer, AI-native, shipping production web apps since 2016.
 
 Most of my work is on large, long-lived codebases used by millions of people: frontend
 architecture, design systems and component libraries, large-scale refactors and framework
