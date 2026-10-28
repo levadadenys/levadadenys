@@ -7,9 +7,9 @@ architecture, design systems and component libraries, large-scale refactors and 
 migrations shipped without disrupting users, and the tooling that keeps a big team moving. Lately much of my work is with AI coding
 agents, both as tools I use every day and as things I build.
 
-I also build in web3.
+In web3, I build data and backtesting tooling for prediction markets.
 
-**Stack:** TypeScript · React · Next.js · Node.js · Python · AI agents · Web3
+**Stack:** TypeScript · React · Next.js · Node.js · Python · AI agents · Web3 (viem, EVM)
 
 #### Side projects
 
