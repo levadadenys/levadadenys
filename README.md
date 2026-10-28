@@ -9,6 +9,7 @@ agents, both as tools I use every day and as things I build.
 
 On the web3 side, I build trading and market-data tooling: market-making and backtesting
 systems for Polymarket prediction markets, and real-time order alerts for Binance P2P.
+That code is private, but I'm happy to walk through it.
 
 **Stack:** TypeScript · React · Next.js · Node.js · Python · AI agents · Web3 (viem, EVM)
 
